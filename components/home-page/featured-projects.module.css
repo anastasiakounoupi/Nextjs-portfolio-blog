@@ -9,6 +9,12 @@
     color: var(--color-grey-800);
     text-align: center;
   }
+
+  .latest h3 {
+    font-size: var(--size-6);
+    color: var(--color-grey-800);
+    text-align: left;
+  }
   
   @media (min-width: 768px) {
     .latest h2 {

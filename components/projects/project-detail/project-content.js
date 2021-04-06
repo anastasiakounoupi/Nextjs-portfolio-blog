@@ -30,8 +30,6 @@ const ProjectContent = ({ post }) => {
     return (
         <article className={classes.content}>
             <ProjectHeader title={post.title} image={`/images/projects/${post.image}`} />
-            <FontAwesomeIcon icon={faCode}></FontAwesomeIcon>
-            <FontAwesomeIcon icon={faGlobe}></FontAwesomeIcon>
             <ReactMarkdown renderers={customRenderers}>{post.content}</ReactMarkdown>
         </article>
     );
