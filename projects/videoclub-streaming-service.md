@@ -2,7 +2,7 @@
 title: 'VideoClub Streaming Service'
 date: 'Feb 2021 - Apr 2021'
 image: videoclub-streaming-service.png
-excerpt: Cooperative project developed for AFDEmp Coding Bootcamp with the target of designing and implementing a functional streaming platform web application as part of a 5 developer team. Stack being used includes Node.js, Sails.js, MySQL, Javascript, jQeury, EJS, Sass
+excerpt: Cooperative project developed for AFDEmp Coding Bootcamp with the target of designing and implementing a functional streaming platform web application as part of a 5 developer team. Stack being used includes Node.js, Sails.js, MySQL, Javascript, jQuery, EJS, Sass
 isFeatured: true
 ---
 
