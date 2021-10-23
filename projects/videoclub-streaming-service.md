@@ -14,7 +14,7 @@ Technologies used include:
 - Sails.js
 - MySQL
 - Javascript
-- jQeury
+- jQuery
 - EJS
 - SASS
 
