@@ -3,7 +3,7 @@ title: 'Private School'
 date: 'November 2020'
 image: private-school.png
 excerpt: Assignment developed for AFDEmp Coding Bootcamp with the target of designing a website for a school where you can add and update the school structure. Developed with Javascript using LocalStorage, html and sass.
-isFeatured: true
+isFeatured: false
 ---
 
 Assignment developed for  **AFDEmp Coding Bootcamp**.
